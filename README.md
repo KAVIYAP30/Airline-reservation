@@ -1,0 +1,1 @@
+This Airline reservation build using Javafx and mysl database JavaFX is a set of graphics and media packages that enables developers to design, create, test, debug, and deploy rich client applications that operate consistently across diverse platforms.
